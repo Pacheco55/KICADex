@@ -1,0 +1,4 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"BT1","1","9V","","","","Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Horizontal","~"
+"D1","1","LED","","","","LED_THT:LED_D5.0mm_FlatTop","~"
+"R1","1","R","","","","Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P2.54mm_Vertical","~"
