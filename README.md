@@ -1,4 +1,5 @@
 # KICADex
+
 Ejercicios y modulos PCB en kicad muchos hasta con archivo GERBER
 
 
@@ -47,10 +48,10 @@ Dale una estrella al repositorio, compártelo con otros developers, déjanos tus
 
 ### **Hecho con amor por PIXELBITS Studios**
 
-*Transformando ideas en código, un ESP32 a la vez.*
+*Transformando ideas en código, un circuito a la vez.*
 
 **[Instagram](https://www.instagram.com/pixelbits_studios/) | [YouTube](https://www.youtube.com/channel/UCkLUjIeYTECtigFdcQjWu5Q) | [Twitter](https://x.com/pixelbitstud) | [Twitch](https://www.twitch.tv/pixelbits_studio/about)**
 
 ---
 
-*WiFi Monitor ESP32 - Porque conocer tu entorno es el primer paso hacia la seguridad.*
+*KiCAD exercises - Porque conocer tu entorno es el primer paso hacia la integridad.*
